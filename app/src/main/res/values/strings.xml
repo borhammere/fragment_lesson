@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Рулетка</string>
+    <string name="initial_value">0</string>
+    <string name="start">start</string>
+</resources>
